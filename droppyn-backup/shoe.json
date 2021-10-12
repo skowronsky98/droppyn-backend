@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "609f943625c21b532a0de4ed"
+  },
+  "model": "Jordan 1 Retro UNC",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f949525c21b532a0de4ee"
+  },
+  "model": "Air Force 1",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f94b425c21b532a0de4ef"
+  },
+  "model": "Flyknit Trainer White Black",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f94f325c21b532a0de4f0"
+  },
+  "model": "Air Max 1/97 Sean Wotherspoon",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f954925c21b532a0de4f1"
+  },
+  "model": "Yeezy Boost 350 V2 Black Red",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f956b25c21b532a0de4f2"
+  },
+  "model": "Ultra Boost 2.0",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f958125c21b532a0de4f3"
+  },
+  "model": "NMD Hu Pharrell Black",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+},{
+  "_id": {
+    "$oid": "609f95a025c21b532a0de4f4"
+  },
+  "model": "Yeezy Boost 700 Wave Runner Solid Grey",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "media": {
+    "imageUrl": "shoe",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Shoe"
+}]

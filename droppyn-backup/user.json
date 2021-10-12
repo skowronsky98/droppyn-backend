@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "609ed22c98cb1221fdbecea7"
+  },
+  "username": "skoczek",
+  "email": "adam@malysz.pl",
+  "firstname": "Adam",
+  "surname": "Małysz",
+  "phone": "547394012",
+  "photoURL": "profile-1",
+  "myOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fab7076993325b803b728"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fabb176993325b803b729"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "60b926bea659685a61570e24"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "60b926caa659685a61570e25"
+      }
+    }
+  ],
+  "favoriteOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609faf3d77b223632bed5dd8"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609faf2e77b223632bed5dd7"
+      }
+    }
+  ],
+  "_class": "com.droppynapi.model.User"
+},{
+  "_id": {
+    "$oid": "609ed26498cb1221fdbecea8"
+  },
+  "username": "puzian",
+  "email": "mariusz@puzianowski.pl",
+  "firstname": "Mariusz",
+  "surname": "Puzianowski",
+  "phone": "544334545",
+  "photoURL": "profile",
+  "myOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fadfd77b223632bed5dd2"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fadfd77b223632bed5dd2"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fadfd77b223632bed5dd2"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fadfd77b223632bed5dd2"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "6148a490b7fa8807ac6c13b9"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "6148a691b7fa8807ac6c13ba"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fadfd77b223632bed5dd2"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "6149fa59536abe0559722765"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "61648b89d2cba611d0bbbac1"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "61648b96d2cba611d0bbbac2"
+      }
+    }
+  ],
+  "_class": "com.droppynapi.model.User"
+},{
+  "_id": {
+    "$oid": "609f96183d3a760f6700ea77"
+  },
+  "username": "testosteron",
+  "email": "marcin@najman.pl",
+  "firstname": "Marcin",
+  "surname": "Najman",
+  "phone": "329487484",
+  "photoURL": "profile",
+  "myOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609faf2e77b223632bed5dd7"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609faf3d77b223632bed5dd8"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609faf5077b223632bed5dd9"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609faf5b77b223632bed5dda"
+      }
+    }
+  ],
+  "_class": "com.droppynapi.model.User"
+},{
+  "_id": {
+    "$oid": "609f964e3d3a760f6700ea78"
+  },
+  "username": "platynov",
+  "email": "paris@platynov.pl",
+  "firstname": "Paris",
+  "surname": "Platynov",
+  "phone": "323857674",
+  "photoURL": "profile",
+  "myOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "60a1327fc2053e7c37fd50fb"
+      }
+    }
+  ],
+  "_class": "com.droppynapi.model.User"
+},{
+  "_id": "2vpMCtfUoja4eTdBdB6dWpn6PzG3",
+  "username": "Oski123",
+  "email": "oski@oski.com",
+  "firstname": "Oskar",
+  "surname": "Skowronski",
+  "phone": "342452222",
+  "photoURL": "profile",
+  "myOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "60b92b9aa659685a61570e28"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "60c9ea22ef0f553ee02ba328"
+      }
+    }
+  ],
+  "favoriteOffers": [
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "609fabb176993325b803b729"
+      }
+    },
+    {
+      "$ref": "offer",
+      "$id": {
+        "$oid": "60b92b9aa659685a61570e28"
+      }
+    }
+  ],
+  "_class": "com.droppynapi.model.User"
+}]

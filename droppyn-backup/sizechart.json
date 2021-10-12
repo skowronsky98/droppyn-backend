@@ -1,0 +1,1201 @@
+[{
+  "_id": {
+    "$oid": "6060991485f4c44f00d58578"
+  },
+  "us": 6,
+  "uk": 5.5,
+  "eu": "38.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991585f4c44f00d58579"
+  },
+  "us": 6.5,
+  "uk": 6,
+  "eu": "39",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991585f4c44f00d5857a"
+  },
+  "us": 7,
+  "uk": 6,
+  "eu": "40",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991685f4c44f00d5857b"
+  },
+  "us": 7.5,
+  "uk": 6.5,
+  "eu": "40.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991685f4c44f00d5857c"
+  },
+  "us": 8,
+  "uk": 7,
+  "eu": "41",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991785f4c44f00d5857d"
+  },
+  "us": 8.5,
+  "uk": 7.5,
+  "eu": "42",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991785f4c44f00d5857e"
+  },
+  "us": 9,
+  "uk": 8,
+  "eu": "42.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991785f4c44f00d5857f"
+  },
+  "us": 9.5,
+  "uk": 8.5,
+  "eu": "43",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991885f4c44f00d58580"
+  },
+  "us": 10,
+  "uk": 9,
+  "eu": "44",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991885f4c44f00d58581"
+  },
+  "us": 10.5,
+  "uk": 9.5,
+  "eu": "44.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991985f4c44f00d58582"
+  },
+  "us": 11,
+  "uk": 10,
+  "eu": "45",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991985f4c44f00d58583"
+  },
+  "us": 11.5,
+  "uk": 10.5,
+  "eu": "45.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991a85f4c44f00d58584"
+  },
+  "us": 12,
+  "uk": 11,
+  "eu": "46",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991a85f4c44f00d58585"
+  },
+  "us": 12.5,
+  "uk": 11.5,
+  "eu": "47",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991b85f4c44f00d58586"
+  },
+  "us": 13,
+  "uk": 12,
+  "eu": "47.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991b85f4c44f00d58587"
+  },
+  "us": 13.5,
+  "uk": 12.5,
+  "eu": "48",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991c85f4c44f00d58588"
+  },
+  "us": 14,
+  "uk": 13,
+  "eu": "48.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991c85f4c44f00d58589"
+  },
+  "us": 15,
+  "uk": 14,
+  "eu": "49.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bd791f943b17604b19a0"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991d85f4c44f00d5858a"
+  },
+  "us": 4,
+  "uk": 3.5,
+  "eu": "36",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991d85f4c44f00d5858b"
+  },
+  "us": 4.5,
+  "uk": 4,
+  "eu": "36 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991d85f4c44f00d5858c"
+  },
+  "us": 5,
+  "uk": 4.5,
+  "eu": "37 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991e85f4c44f00d5858d"
+  },
+  "us": 5.5,
+  "uk": 5,
+  "eu": "38",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991e85f4c44f00d5858e"
+  },
+  "us": 6,
+  "uk": 5.5,
+  "eu": "38 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991f85f4c44f00d5858f"
+  },
+  "us": 6.5,
+  "uk": 6,
+  "eu": "39 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991f85f4c44f00d58590"
+  },
+  "us": 7,
+  "uk": 6.5,
+  "eu": "40",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060991f85f4c44f00d58591"
+  },
+  "us": 7.5,
+  "uk": 7,
+  "eu": "40 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992085f4c44f00d58592"
+  },
+  "us": 8,
+  "uk": 7.5,
+  "eu": "41 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992085f4c44f00d58593"
+  },
+  "us": 8.5,
+  "uk": 8,
+  "eu": "42",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992185f4c44f00d58594"
+  },
+  "us": 9,
+  "uk": 8.5,
+  "eu": "42 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992185f4c44f00d58595"
+  },
+  "us": 9.5,
+  "uk": 9,
+  "eu": "43 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992285f4c44f00d58596"
+  },
+  "us": 10,
+  "uk": 9.5,
+  "eu": "44",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992285f4c44f00d58597"
+  },
+  "us": 10.5,
+  "uk": 10,
+  "eu": "44 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992385f4c44f00d58598"
+  },
+  "us": 11,
+  "uk": 10.5,
+  "eu": "45 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992385f4c44f00d58599"
+  },
+  "us": 11.5,
+  "uk": 11,
+  "eu": "46",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992485f4c44f00d5859a"
+  },
+  "us": 12,
+  "uk": 11.5,
+  "eu": "46 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992485f4c44f00d5859b"
+  },
+  "us": 12.5,
+  "uk": 12,
+  "eu": "47 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992485f4c44f00d5859c"
+  },
+  "us": 13,
+  "uk": 12.5,
+  "eu": "48",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992585f4c44f00d5859d"
+  },
+  "us": 13.5,
+  "uk": 13,
+  "eu": "48 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992585f4c44f00d5859e"
+  },
+  "us": 14,
+  "uk": 13.5,
+  "eu": "49 1/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992685f4c44f00d5859f"
+  },
+  "us": 14.5,
+  "uk": 14,
+  "eu": "50",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992685f4c44f00d585a0"
+  },
+  "us": 15,
+  "uk": 14.5,
+  "eu": "50 2/3",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054beb61f943b17604b19a2"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992685f4c44f00d585a1"
+  },
+  "us": 4,
+  "uk": 3.5,
+  "eu": "36",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992785f4c44f00d585a2"
+  },
+  "us": 4.5,
+  "uk": 4,
+  "eu": "37",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992785f4c44f00d585a3"
+  },
+  "us": 5,
+  "uk": 4.5,
+  "eu": "37.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992885f4c44f00d585a4"
+  },
+  "us": 5.5,
+  "uk": 5,
+  "eu": "38",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992885f4c44f00d585a5"
+  },
+  "us": 6,
+  "uk": 5.5,
+  "eu": "38.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992985f4c44f00d585a6"
+  },
+  "us": 6.5,
+  "uk": 6,
+  "eu": "39.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992985f4c44f00d585a7"
+  },
+  "us": 7,
+  "uk": 6.5,
+  "eu": "40",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992985f4c44f00d585a8"
+  },
+  "us": 7.5,
+  "uk": 7,
+  "eu": "40.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992a85f4c44f00d585a9"
+  },
+  "us": 8,
+  "uk": 7.5,
+  "eu": "41.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992a85f4c44f00d585aa"
+  },
+  "us": 8.5,
+  "uk": 8,
+  "eu": "42",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992b85f4c44f00d585ab"
+  },
+  "us": 9,
+  "uk": 8.5,
+  "eu": "42.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992b85f4c44f00d585ac"
+  },
+  "us": 9.5,
+  "uk": 9,
+  "eu": "43",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992b85f4c44f00d585ad"
+  },
+  "us": 10,
+  "uk": 9.5,
+  "eu": "44",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992c85f4c44f00d585ae"
+  },
+  "us": 10.5,
+  "uk": 10,
+  "eu": "44.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992c85f4c44f00d585af"
+  },
+  "us": 11,
+  "uk": 10.5,
+  "eu": "45",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992d85f4c44f00d585b0"
+  },
+  "us": 11.5,
+  "uk": 11,
+  "eu": "45.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992d85f4c44f00d585b1"
+  },
+  "us": 12,
+  "uk": 11.5,
+  "eu": "46.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992e85f4c44f00d585b2"
+  },
+  "us": 12.5,
+  "uk": 12,
+  "eu": "47",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992e85f4c44f00d585b3"
+  },
+  "us": 13,
+  "uk": 12.5,
+  "eu": "47.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992e85f4c44f00d585b4"
+  },
+  "us": 14,
+  "uk": 13.5,
+  "eu": "49",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060992f85f4c44f00d585b5"
+  },
+  "us": 15,
+  "uk": 14.5,
+  "eu": "50",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bec31f943b17604b19a3"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993685f4c44f00d585c7"
+  },
+  "us": 6.5,
+  "uk": 5.5,
+  "eu": "39",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993785f4c44f00d585c8"
+  },
+  "us": 7,
+  "uk": 6,
+  "eu": "40",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993785f4c44f00d585c9"
+  },
+  "us": 7.5,
+  "uk": 6.5,
+  "eu": "40.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993885f4c44f00d585ca"
+  },
+  "us": 8,
+  "uk": 7,
+  "eu": "41",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993885f4c44f00d585cb"
+  },
+  "us": 8.5,
+  "uk": 7.5,
+  "eu": "42",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993885f4c44f00d585cc"
+  },
+  "us": 9,
+  "uk": 8,
+  "eu": "42.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993985f4c44f00d585cd"
+  },
+  "us": 9.5,
+  "uk": 8.5,
+  "eu": "43",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993985f4c44f00d585ce"
+  },
+  "us": 10,
+  "uk": 9,
+  "eu": "44",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993a85f4c44f00d585cf"
+  },
+  "us": 10.5,
+  "uk": 9.5,
+  "eu": "44.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993a85f4c44f00d585d0"
+  },
+  "us": 11,
+  "uk": 10,
+  "eu": "45",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993a85f4c44f00d585d1"
+  },
+  "us": 11.5,
+  "uk": 10.5,
+  "eu": "46",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993b85f4c44f00d585d2"
+  },
+  "us": 12,
+  "uk": 11,
+  "eu": "46.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993b85f4c44f00d585d3"
+  },
+  "us": 12.5,
+  "uk": 11.5,
+  "eu": "47",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993c85f4c44f00d585d4"
+  },
+  "us": 13,
+  "uk": 12,
+  "eu": "47.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993c85f4c44f00d585d5"
+  },
+  "us": 13.5,
+  "uk": 12.5,
+  "eu": "48",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993c85f4c44f00d585d6"
+  },
+  "us": 14,
+  "uk": 13,
+  "eu": "49",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993d85f4c44f00d585d7"
+  },
+  "us": 14.5,
+  "uk": 13.5,
+  "eu": "49.5",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+},{
+  "_id": {
+    "$oid": "6060993d85f4c44f00d585d8"
+  },
+  "us": 15,
+  "uk": 14,
+  "eu": "50",
+  "type": "m",
+  "brand": {
+    "$ref": "brand",
+    "$id": {
+      "$oid": "6054bef91f943b17604b19a4"
+    }
+  },
+  "_class": "com.droppynapi.model.SizeChart"
+}]

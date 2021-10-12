@@ -1,0 +1,346 @@
+[{
+  "_id": {
+    "$oid": "609fab7076993325b803b728"
+  },
+  "price": 995,
+  "active": true,
+  "deleted": false,
+  "bio": "tylko za pobraniem",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f943625c21b532a0de4ed"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991485f4c44f00d58578"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed22c98cb1221fdbecea7"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "609fabb176993325b803b729"
+  },
+  "price": 405,
+  "active": true,
+  "deleted": false,
+  "bio": "tylko za pobraniem",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f949525c21b532a0de4ee"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991685f4c44f00d5857c"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed22c98cb1221fdbecea7"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "609fadfd77b223632bed5dd2"
+  },
+  "price": 196,
+  "active": true,
+  "deleted": false,
+  "bio": "tylko za pobraniem\nsiwma eniu",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f956b25c21b532a0de4f2"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060993b85f4c44f00d585d2"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "609faef577b223632bed5dd6"
+  },
+  "price": 550,
+  "active": true,
+  "deleted": true,
+  "bio": "za pobraniem/ przelew / meet wwa\nszybki deal lc 500+",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f949525c21b532a0de4ee"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991785f4c44f00d5857f"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "60b92b9aa659685a61570e28"
+  },
+  "price": 560,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f949525c21b532a0de4ee"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991685f4c44f00d5857c"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": "2vpMCtfUoja4eTdBdB6dWpn6PzG3"
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "60c4d842050fd07713aaa85d"
+  },
+  "price": 23,
+  "active": false,
+  "deleted": true,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f943625c21b532a0de4ed"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991485f4c44f00d58578"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": "2vpMCtfUoja4eTdBdB6dWpn6PzG3"
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "60c9ea22ef0f553ee02ba328"
+  },
+  "price": 230,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f956b25c21b532a0de4f2"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991885f4c44f00d58580"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": "2vpMCtfUoja4eTdBdB6dWpn6PzG3"
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "6148a038cf39042c56a0c024"
+  },
+  "price": 999,
+  "active": true,
+  "deleted": false,
+  "bio": "test :)",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f94b425c21b532a0de4ef"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060993b85f4c44f00d585d2"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "6148a490b7fa8807ac6c13b9"
+  },
+  "price": 78,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f949525c21b532a0de4ee"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991585f4c44f00d58579"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "6148a691b7fa8807ac6c13ba"
+  },
+  "price": 9000,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f94f325c21b532a0de4f0"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991585f4c44f00d5857a"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "6149fa59536abe0559722765"
+  },
+  "price": 120,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f954925c21b532a0de4f1"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991485f4c44f00d58578"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "61648b89d2cba611d0bbbac1"
+  },
+  "price": 123,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f943625c21b532a0de4ed"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991785f4c44f00d5857d"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+},{
+  "_id": {
+    "$oid": "61648b96d2cba611d0bbbac2"
+  },
+  "price": 0,
+  "active": true,
+  "deleted": false,
+  "bio": "",
+  "shoe": {
+    "$ref": "shoe",
+    "$id": {
+      "$oid": "609f958125c21b532a0de4f3"
+    }
+  },
+  "sizeChart": {
+    "$ref": "sizechart",
+    "$id": {
+      "$oid": "6060991785f4c44f00d5857e"
+    }
+  },
+  "user": {
+    "$ref": "user",
+    "$id": {
+      "$oid": "609ed26498cb1221fdbecea8"
+    }
+  },
+  "_class": "com.droppynapi.model.Offer"
+}]

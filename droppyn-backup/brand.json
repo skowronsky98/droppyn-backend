@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6054bd791f943b17604b19a0"
+  },
+  "name": "Nike",
+  "media": {
+    "imageUrl": "https://fitrite.tk/img/brands/nike.png",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Brand"
+},{
+  "_id": {
+    "$oid": "6054beb61f943b17604b19a2"
+  },
+  "name": "Adidas",
+  "media": {
+    "imageUrl": "https://fitrite.tk/img/brands/adidas.png",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Brand"
+},{
+  "_id": {
+    "$oid": "6054bec31f943b17604b19a3"
+  },
+  "name": "New Balance",
+  "media": {
+    "imageUrl": "https://fitrite.tk/img/brands/newbalance.png",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Brand"
+},{
+  "_id": {
+    "$oid": "6054bef91f943b17604b19a4"
+  },
+  "name": "Converse",
+  "media": {
+    "imageUrl": "https://fitrite.tk/img/brands/converse.png",
+    "smallImageUrl": "",
+    "thumbUrl": ""
+  },
+  "_class": "com.droppynapi.model.Brand"
+}]
