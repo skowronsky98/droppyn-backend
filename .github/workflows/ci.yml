@@ -37,7 +37,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ github.token }}
 
-  - uses: mr-smithers-excellent/docker-build-push@v5
+    - uses: mr-smithers-excellent/docker-build-push@v5
       name: Build & push Docker image
       with:
         image: skowronsky/droppyn
