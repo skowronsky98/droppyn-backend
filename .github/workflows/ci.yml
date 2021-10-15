@@ -5,9 +5,9 @@ name: Maven Package
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   pull_request:
-    branches: [main]
+    branches: [ main ]
   release:
     types: [created]
 
@@ -32,17 +32,18 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
-    - name: Publish to GitHub Packages Apache Maven
-      run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
+#     - name: Publish to GitHub Packages Apache Maven
+#       run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
+#       env:
+#         GITHUB_TOKEN: ${{ github.token }}
 
-  - uses: mr-smithers-excellent/docker-build-push@v5
-      name: Build & push Docker image
+
+    - name: Build & push Docker image
+      uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: skowronsky/droppyn
-        tags: v1, latest
-        registry: registry-url.io
-        dockerfile: Dockerfile.ci
+        registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
+
+
